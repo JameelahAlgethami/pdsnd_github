@@ -14,3 +14,6 @@ i want add files like dc and canada>..
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
+### About me 
+I am Jameelah 
+computer Science 
