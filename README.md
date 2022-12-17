@@ -5,10 +5,10 @@ december 17
 ### Project Title
 Jameelah project
 ### Description
-Describe what your project is about and what it does
+python projict for DS
 
 ### Files used
-Include the files used
+i use chicago and new york city and washington
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
