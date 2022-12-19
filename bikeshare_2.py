@@ -93,7 +93,9 @@ def trip_duration_stats(df):
 
 
     # display mean travel time
-
+def gpa():
+    print("4 out of 4")
+     print("good")
 
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
